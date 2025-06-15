@@ -42,14 +42,13 @@ In osTicket we need to allow certain permissions to the agents and users so in t
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Starting out we can make a supreme admin so we will go the admin panel and go to agents and we can make a new agent Trace and we will make him supreme admin. In the departments this allows us to give access to certain permissions like ticket visibility, sysadmins and networking. Teams allows for easier grouping of agents on projects so we can put trace in the online banking team for example. If we go to the agents tab we can make as many agents as we want for different departments, we will make Jane for sysadmins and john in support. We can make users to if they need any IT support, we'll go to the agent panel- users- add new. We will create Sierra and Rio as users.
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configuring SLA is very simple. We go the the admin panel- manage- SLA. There will be differnt kinds of SLA in the workplace so we will do SEV-B. SEV-B is the most common of the SLA you will need to contact the user every 4 hours and it will be on a 24/7 basis. SLA really all comes down to how important or big issue is in the workplace. You can also make help topics for the user if they are having trouble they can click on our tab that we can create, so we will go to admin panel- manage- help topics. We will create tabs that have password reset/ equipment reset/ computer issues/ business critical outages/ other. This way it will give the user some tips while they wait to get in contact with an IT professional.
 </p>
 <br />
