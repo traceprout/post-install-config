@@ -42,7 +42,7 @@ In osTicket we need to allow certain permissions to the agents and users so in t
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Starting out we can make a supreme admin so we will go the admin panel and go to agents and we can make a new agent Trace and we will make him supreme admin. In the departments this allows us to give access to certain permissions like ticket visibility, sysadmins and networking. Teams allows for easier grouping of agents on projects. We can make users for a certain department to help clients, we'll go to the agent panel- users- add new. We will create Sierra and Rio as users. Like the teams I mentioned earlier we will add Sierra to the online banking team and Rio to the Business team.
+Starting out we can make a supreme admin so we will go the admin panel and go to agents and we can make a new agent Trace and we will make him supreme admin. In the departments this allows us to give access to certain permissions like ticket visibility, sysadmins and networking. Teams allows for easier grouping of agents on projects. We can make users for a certain department like maintenence and support to easier help clients, we'll go to the agent panel- users- add new. We will create Sierra and Rio as users. Like the teams I mentioned earlier we will add Sierra to the online banking team and Rio to the Business team.
 <br />
 
 <p>
