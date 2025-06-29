@@ -47,8 +47,9 @@ In osTicket we need to allow certain permissions to the agents and users so in t
 Starting out we can make a supreme admin so we will go the admin panel and go to agents and we can make a new agent Trace and we will make him supreme admin. In the departments this allows us to give access to certain permissions like ticket visibility, sysadmins and networking. Teams allows for easier grouping of agents on projects. We can make users for a certain department like maintenence and support to easier help clients, we'll go to the agent panel- users- add new. We will create Sierra and Rio as users. Like the teams I mentioned earlier we will add Sierra to the online banking team and Rio to the Business team.
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![osticket 6](https://github.com/user-attachments/assets/6f60a6d5-57b9-46fe-b4e7-0b8a2b22a7dd)
+
 </p>
 <p>
 Configuring SLA is very simple. We go the the admin panel- manage- SLA- then click add new SLA plan. There will be differnt kinds of SLA in the workplace so we will do SEV-B. SEV-B is the most common of the SLA you will need to contact the user every 4 hours and it will be on a 24/7 basis. SLA really all comes down to how important or big issue is in the workplace. You can also make help topics for the user if they are having trouble they can click on our tab that we can create, so we will go to admin panel- manage- help topics. We will create tabs that have password reset/ equipment reset/ computer issues/ business critical outages/ other. This way it will give the user some tips while they wait to get in contact with an IT professional.
