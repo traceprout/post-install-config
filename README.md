@@ -30,8 +30,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![osticket 4](https://github.com/user-attachments/assets/35cd01b3-e46f-462c-b9fb-c442347113f0)
+
 </p>
 <p>
 In osTicket we need to allow certain permissions to the agents and users so in the agent panel from there we can give access or restrict access to users. from there we can also add roles with a whole list of permissions.
